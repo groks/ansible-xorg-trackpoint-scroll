@@ -1,8 +1,9 @@
 xorg-trackpoint-scroll
 ========
 
-An [ansible role](https://galaxy.ansibleworks.com/) to enable scrolling with
-the trackpoint (Thinkpad stick mouse) when holding down the middle mouse button.
+An [ansible role](https://galaxy.ansibleworks.com/list#/roles/219) to enable
+scrolling with the trackpoint (Thinkpad stick mouse) when holding down the
+middle mouse button.
 
     ---
     - hosts: localhost
