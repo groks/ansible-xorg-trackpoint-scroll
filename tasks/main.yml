@@ -1,0 +1,9 @@
+---
+
+- name: emulate wheel with middle button and trackpoint
+  template:
+    src: 40-trackpoint-scroll.conf
+    dest: /etc/X11/xorg.conf.d/
+    mode: 0664
+    owner: root
+    group: root

@@ -1,0 +1,19 @@
+---
+galaxy_info:
+  author: groks
+  description: enable scrolling with midde button and trackpoint
+  license: BSD
+  min_ansible_version: 1.3
+
+  platforms:
+    - name: Fedora
+      versions:
+        - all
+    - name: GenericLinux
+      versions:
+        - all
+
+  categories:
+    - system
+
+dependencies: []
